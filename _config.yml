@@ -54,12 +54,12 @@ medium: medium
 email: heejindianekim@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Heejin (Diane) Kim:
+        name: Heejin (Diane) Kim
+        bio: YBigta 미니컨퍼런스 project용 Blog
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        
  
 
 # do you want a larger site? change the option below
@@ -79,7 +79,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
@@ -91,7 +91,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
